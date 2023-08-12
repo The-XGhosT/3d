@@ -58,7 +58,7 @@ body{
     height: 352px;
     transform: rotateY(90deg) translateZ(-10px); 
     z-index: 3;
-    background: beige ;
+    background: black;
     position: relative;
     bottom: 704px;
 }
@@ -66,7 +66,7 @@ body{
     width: 27px;
     height: 352px;
     transform: rotateY(-90deg) translateZ(10px); 
-    background: black;
+    background: beige ;
     position: relative;
     bottom: 1056px;
     left: 272px;
