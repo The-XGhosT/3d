@@ -8,12 +8,12 @@ body{
     flex-direction: column;
     background-color: #fcebb5;
     max-height: 100vh;
+    overflow: hidden;
 }
 
 .main{
+    height: 90vh;
     display: flex;
-    height: 100%;
-    width: 100%;
 }
 
 
